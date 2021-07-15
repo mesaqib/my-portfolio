@@ -200,14 +200,23 @@ section,
   padding: 2em 0;
 }
 
+
+
 .page-header__content {
   display: flex;
   justify-content: space-between;
+}
+.page-header{
+  background-color: white;
+  position: fixed;
+  width: 100%;
+  height: 90px;
 }
 
 .nav-list {
   margin: 0;
   padding: 0;
+
 }
 
 .nav-list a {
@@ -237,6 +246,9 @@ section,
   Homepage
   /////////////////////// */
 
+  .hero {
+    padding-top: 200px;
+  }
 .hero > div {
   display: grid;
   grid-auto-flow: row;
@@ -244,6 +256,14 @@ section,
   align-items: center;
   gap: 3em;
 }
+
+
+@media(max-width: 945px){
+  .hero {
+    padding-top: 200px;
+  }
+}
+
 
 .hero__image {
   width: 100%;
