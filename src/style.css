@@ -205,6 +205,7 @@ section,
 .page-header__content {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 .page-header{
   background-color: white;
