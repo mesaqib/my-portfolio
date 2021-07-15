@@ -1,6 +1,6 @@
 ---
 title: Title Blog
-discription: MY Short Desrption
+discription: MY Short Desrptin
 author: saqib
 date: 2021-07-15T09:50:39.290Z
 tags:
