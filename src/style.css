@@ -392,14 +392,14 @@ nav{
   /////////////////////// */
 
 .snippet {
-  display: grid;
+  /* display: grid;
   gap: 1em;
   grid-template-areas:
     "image"
     "title"
     "meta"
     "body"
-    "button";
+    "button"; */
 }
 .snippet{
   background-color: #b7fff3;
@@ -409,18 +409,21 @@ nav{
 }
 
 .snippet__image {
-  grid-area: image;
+  /* grid-area: image;
   width: 90%;
   height: 90%;
   aspect-ratio: 4 / 3;
-  object-fit: cover;
+  object-fit: cover; */
+  margin-bottom: 30px;
 }
 .snippet__title {
-  grid-area: title;
+  /* grid-area: title; */
+  margin-bottom: 10px;
 }
 .snippet__meta {
-  grid-area: meta;
+  /* grid-area: meta; */
   color: var(--clr-neutral-300);
+  margin-bottom: 10px;
 }
 
 .snippet__meta span {
@@ -439,6 +442,9 @@ nav{
 .snippet__title a {
   color: inherit;
   text-decoration: none;
+}
+.snippet .btn{
+  margin-top: 20px;
 }
 
 .snippet__title a:hover,
