@@ -334,6 +334,9 @@ nav{
   .hero img{
      display: none;
   }
+  .hero .flex-group a{
+     margin-bottom: 10px;
+  }
   .hero{
     text-align: center;
     width: 100%;
