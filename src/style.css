@@ -409,9 +409,9 @@ nav{
 }
 .snippet{
   background-color: #b7fff3;
-  padding: 30px;
+  padding: 20px;
   border-radius: 10px;
-  margin: 20px auto;
+  margin: 50px 50px;
 }
 
 .snippet__image {
@@ -482,15 +482,14 @@ nav{
 
 @media (min-width: 45em) {
   .snippet {
-
-     grid-template-areas:
+     grid-template-areas: 
       "title image"
       "meta image"
       "body image"
       "button image";
     grid-column-gap: 4em;
     grid-template-columns: 1fr 40%;
-    grid-template-rows: min-content min-content min-content 1fr; */
+    grid-template-rows: min-content min-content min-content 1fr;
 
   } 
 }
