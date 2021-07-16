@@ -370,6 +370,9 @@ nav{
 .featured-articles {
   background-color: var(--clr-primary-200);
 }
+.featured-articles p{
+  margin: 10px;
+}
 
 .articles__list {
   --flow-spacer: 3rem;
