@@ -410,6 +410,7 @@ nav{
 .snippet__image {
   grid-area: image;
   width: 90%;
+  height: 90%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
@@ -425,9 +426,9 @@ nav{
   color: var(--clr-neutral-900);
 }
 
-.snippet .btn {
+/* .snippet .btn {
   grid-area: button;
-}
+} */
 
 .snippet__title {
   color: var(--clr-neutral-900);
@@ -443,6 +444,28 @@ nav{
 .snippet__title a:focus {
   color: var(--clr-primary-500);
 } 
+
+
+@media(max-width: 719px){
+  .snippet {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .snippet .btn{
+     text-align: center;
+  }
+ 
+}
+
+
+
+
+
+
 
 @media (min-width: 45em) {
   .snippet {
@@ -464,8 +487,7 @@ nav{
   line-height: 1;
   padding: 0.75em 1.75em;
   border-radius: 0.25em;
-  align-self: start;
-  justify-self: start;
+  
 }
 
 .btn:focus {
