@@ -401,10 +401,15 @@ nav{
     "body"
     "button";
 }
+.snippet{
+  background-color: #b7fff3;
+  padding: 30px;
+  border-radius: 10px;
+}
 
 .snippet__image {
   grid-area: image;
-  width: 100%;
+  width: 90%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
