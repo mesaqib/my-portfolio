@@ -398,14 +398,14 @@ nav{
   /////////////////////// */
 
 .snippet {
-  /* display: grid;
+  display: grid;
   gap: 1em;
   grid-template-areas:
     "image"
     "title"
     "meta"
     "body"
-    "button"; */
+    "button";
 }
 .snippet{
   background-color: #b7fff3;
@@ -415,19 +415,19 @@ nav{
 }
 
 .snippet__image {
-  /* grid-area: image;
+  grid-area: image;
   width: 90%;
   height: 90%;
   aspect-ratio: 4 / 3;
-  object-fit: cover; */
+  object-fit: cover;
   margin-bottom: 30px;
 }
 .snippet__title {
-  /* grid-area: title; */
+  grid-area: title;
   margin-bottom: 10px;
 }
 .snippet__meta {
-  /* grid-area: meta; */
+  grid-area: meta;
   color: var(--clr-neutral-300);
   margin-bottom: 10px;
 }
@@ -436,9 +436,9 @@ nav{
   color: var(--clr-neutral-900);
 }
 
-/* .snippet .btn {
+.snippet .btn {
   grid-area: button;
-} */
+}
 
 .snippet__title {
   color: var(--clr-neutral-900);
@@ -482,15 +482,17 @@ nav{
 
 @media (min-width: 45em) {
   .snippet {
-    grid-template-areas:
+
+     grid-template-areas:
       "title image"
       "meta image"
       "body image"
       "button image";
     grid-column-gap: 4em;
     grid-template-columns: 1fr 40%;
-    grid-template-rows: min-content min-content min-content 1fr;
-  }
+    grid-template-rows: min-content min-content min-content 1fr; */
+
+  } 
 }
 
 .btn {
