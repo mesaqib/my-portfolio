@@ -221,10 +221,19 @@ nav{
   justify-content: space-between;
   height: 70px;
   width: 100%;
-  background-color: #8bf1e0;
+  background-color: #10da9d;
   border-top: none;
   align-items: center;
 }
+
+nav .logo a{
+  text-decoration: none;
+  color: white;
+}
+nav .logo{
+  padding-left: 20px;
+}
+
 .menu__bar ul{
   display: flex;
   padding-right: 30px;
@@ -234,8 +243,11 @@ nav{
 }
 .menu__bar ul li a{
   text-decoration: none; 
-  font-size: 18px;
-  color: rgb(43, 43, 43);
+  font-size: 17px;
+  color: rgb(255, 255, 255);
+}
+.menu__bar ul li a:hover {
+  text-decoration: underline;
 }
 
 .toggle{
