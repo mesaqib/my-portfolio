@@ -400,6 +400,8 @@ nav{
 
 .snippet {
   display: grid;
+
+
   /* gap: 1em; */
   grid-template-areas:
     "image"
@@ -410,7 +412,7 @@ nav{
 }
 .snippet{
   background-color: #b7fff3;
-  padding: 40px 10px;
+  padding: 40px 5px;
   border-radius: 10px;
   margin-bottom: 40px;
   align-items: center;
