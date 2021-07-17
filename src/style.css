@@ -413,6 +413,7 @@ nav{
   border-radius: 10px;
   margin: 50px 5px;
   align-items: center;
+  justify-content: center;
 }
 
 .snippet__image {
