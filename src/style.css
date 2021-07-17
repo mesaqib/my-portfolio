@@ -398,18 +398,18 @@ nav{
   /////////////////////// */
 
 .snippet {
-  /* display: grid;
+  display: grid;
   gap: 1em;
   grid-template-areas:
     "image"
     "title"
     "meta"
     "body"
-    "button"; */
+    "button";
 }
 .snippet{
   background-color: #b7fff3;
-  padding: 10px;
+  padding: 40px 10px;
   border-radius: 10px;
   margin: 50px 5px;
 }
@@ -438,7 +438,13 @@ nav{
 
 .snippet .btn {
   grid-area: button;
+  width: 80%;
 }
+.snippet a{
+  font-size: 16px;
+}
+
+
 
 .snippet__title {
   color: var(--clr-neutral-900);
@@ -461,8 +467,6 @@ nav{
 
 @media(max-width: 719px){
   .snippet {
-    text-align: center;
-    align-items: center;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -481,6 +485,7 @@ nav{
 
 
 @media (min-width: 45em) {
+
   .snippet {
      grid-template-areas: 
       "title image"
@@ -492,13 +497,14 @@ nav{
     grid-template-rows: min-content min-content min-content 1fr;
 
   } 
+
 }
 
 .btn {
   cursor: pointer;
   text-decoration: none;
   display: inline-block;
-  line-height: 1;
+  /* line-height: 1; */
   padding: 0.75em 1.75em;
   border-radius: 0.25em;
   
