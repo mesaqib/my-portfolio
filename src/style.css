@@ -46,6 +46,14 @@
   box-sizing: border-box;
 } */
 
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  overflow-x: hidden;
+}
+
 /* Remove default margin */
 body,
 h1,
@@ -415,7 +423,8 @@ nav{
   background-color: #b7fff3;
   padding: 40px 20px;
   border-radius: 10px;
-  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-bottom: 50px;
   align-items: center;
   justify-content: center;
    
