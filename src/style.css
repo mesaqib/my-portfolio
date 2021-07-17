@@ -412,6 +412,7 @@ nav{
   padding: 40px 10px;
   border-radius: 10px;
   margin: 50px 5px;
+  align-items: center;
 }
 
 .snippet__image {
