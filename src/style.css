@@ -332,10 +332,14 @@ nav{
   /* gap: 3em; */
 }
 
+.hero p{
+  text-align: center;
+}
+
 
 @media(max-width: 945px){
   .hero {
-    padding-top: 200px;
+    padding-top: 150px;
   }
 }
 
