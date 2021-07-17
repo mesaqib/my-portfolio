@@ -375,7 +375,7 @@ nav{
 }
 
 .articles__list {
-  --flow-spacer: 3rem;
+  /* --flow-spacer: 3rem; */
   /* margin: 6rem 0; */
 }
 
