@@ -39,11 +39,12 @@
   /////////////////////// */
 
 /* Box sizing rules */
+/* 
 *,
 *::before,
 *::after {
   box-sizing: border-box;
-}
+} */
 
 /* Remove default margin */
 body,
@@ -159,7 +160,7 @@ section,
 .container {
   margin-inline: auto;
   padding-inline: 1.5em;
-  max-width: 72rem;
+  /* max-width: 72rem; */
 }
 
 .container--narrow {
@@ -212,7 +213,7 @@ nav{
   justify-content: space-between;
   height: 70px;
   width: 100%;
-  background-color: rgb(255, 244, 244);
+  background-color: #8bf1e0;
   border-top: none;
   align-items: center;
 }
@@ -412,7 +413,7 @@ nav{
 }
 .snippet{
   background-color: #b7fff3;
-  padding: 40px 10px;
+  padding: 40px 20px;
   border-radius: 10px;
   margin-bottom: 40px;
   align-items: center;
@@ -444,7 +445,7 @@ nav{
 
 .snippet .btn {
   grid-area: button;
-  width: 100%;
+  width: 80%;
   text-align: center;
   align-items: center;
 }
