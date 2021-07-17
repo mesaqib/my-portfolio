@@ -409,9 +409,9 @@ nav{
 }
 .snippet{
   background-color: #b7fff3;
-  padding: 20px;
+  padding: 10px;
   border-radius: 10px;
-  margin: 1px 2px;
+  margin: 20px 5px;
 }
 
 .snippet__image {
