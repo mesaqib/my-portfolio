@@ -385,6 +385,7 @@ nav{
 
   .main-article {
     margin-bottom: 3rem;
+    padding: 10px;
   }
 
   .main-article__figure figcaption {
