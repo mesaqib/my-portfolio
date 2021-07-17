@@ -313,7 +313,7 @@ nav{
   /////////////////////// */
 
   .hero {
-    padding: 130px 30px 20px 30px;
+    padding: 130px 10px 20px 10px;
   }
 .hero > div {
   display: grid;
@@ -482,7 +482,6 @@ nav{
   }
  
 }
-
 
 
 
