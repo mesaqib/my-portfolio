@@ -412,12 +412,12 @@ nav{
 }
 .snippet{
   background-color: #b7fff3;
-  padding: 40px 5px;
+  padding: 40px 10px;
   border-radius: 10px;
   margin-bottom: 40px;
   align-items: center;
   justify-content: center;
-  text-align: center;
+   
 }
 
 .snippet__image {
@@ -444,12 +444,10 @@ nav{
 
 .snippet .btn {
   grid-area: button;
-  width: 80%;
+  width: 100%;
+  text-align: center;
+  align-items: center;
 }
-.snippet a{
-  font-size: 16px;
-}
-
 
 
 .snippet__title {
