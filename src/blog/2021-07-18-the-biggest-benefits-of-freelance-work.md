@@ -5,7 +5,7 @@ date: 2021-07-18T05:23:54.731Z
 tags:
   - post
   - featured
-image: /assets/blog/learning-tech-skills-online.jpg
+image: /assets/blog/online-courses-for-coding-programming-and-web-development.jpg
 description: "This should come as no surprise once you consider that coders,
   generally , don’t need much to urge to work: just their laptop and a stable
   internet connection.  Also, of all the possible freelance jobs, skilled
