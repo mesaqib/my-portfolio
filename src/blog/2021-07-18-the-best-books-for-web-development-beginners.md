@@ -17,21 +17,13 @@ I incline toward actual books over advanced ones, particularly on the off chance
 
 So, here are my top picks for the best books when you're learning web improvement!
 
-
+<br/>
 
 ## ***Web Dev and Programming***
 
-
-
-## HTML & CSS, and JavaScript & JQuery (2 book set) by Jon Duckett
-
-
+## HTML & CSS, and JavaScript & JQuery (2 book set) by Jon Duckett<br/>
 
 <a href="https://www.amazon.in/Web-Design-HTML-JavaScript-jQuery/dp/1118907442?dchild=1&keywords=Jon+Duckett&qid=1626596152&sr=8-1&linkCode=li3&tag=saqib0ad-21&linkId=3786df666d2f2e7f76c265abc30d6319&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118907442&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=saqib0ad-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=saqib0ad-21&l=li3&o=31&a=1118907442" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
-
-
 
 Jon Duckett's books are inconceivably mainstream, and all things considered they clarify the current subjects well and are planned massively well. They're unquestionably not your standard stodgy programming reading material! Both these books use designs to show ideas, and let's face it they'll look truly cool on your shelf 
 
@@ -40,10 +32,6 @@ One note: I'd go for the hardback forms despite the fact that they're more costl
 <br/>
 
 **[Check out Jon Duckett’s books on Amazon](https://amzn.to/2UeTTyd)**
-
-
-
-
 
 **<br/><br/>**
 
@@ -63,17 +51,11 @@ You can peruse Eloquent JavaScript online free of charge, or you can purchase th
 
 <br/>
 
-
-
 **[Read Eloquent JavaScript online.](https://amzn.to/3ethfXw)**
 
 **[Or buy the paper or Kindle version on Amazon.](https://amzn.to/3ethfXw)**
 
-
-
 **<br/><br/>**
-
-
 
 **<u>**
 
@@ -83,22 +65,12 @@ You can peruse Eloquent JavaScript online free of charge, or you can purchase th
 
 **<br/>**
 
-
-
 <a href="https://www.amazon.in/Dont-Make-Think-Revisited-Usability/dp/9332542864?dchild=1&keywords=Don%E2%80%99t+Make+Me+Think+by+Steve+Krug&qid=1626597737&sr=8-1&linkCode=li3&tag=saqib0ad-21&linkId=76d1a342347db722df96b5b289e7e77c&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=9332542864&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=saqib0ad-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=saqib0ad-21&l=li3&o=31&a=9332542864" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
-
-
-
-
 
 Heard of terms like UX (user experience) or user design, but have no clue what they mean? This book is a great introduction into the world of making websites that people love using. It explains the basics of how visitors to your website behave and what about websites can frustrate them.
 
 Bottom line: don’t design websites that your visitors will hate.
 
 <br/>
-
-
 
 **[Check out Don’t Make Me Think on Amazon.](https://amzn.to/3z4URvm)**
