@@ -5,7 +5,7 @@ date: 2021-07-15T08:03:02.404Z
 tags:
   - post
   - featured
-image: /assets/blog/black-and-gold-modern-elegant-birthday-animated-photo-collage.png
+image: /assets/blog/black-and-gold-modern-elegant-birthday-animated-photo-collage-1-.png
 description: Online courses are incredible and all, however some of the time you
   simply need to have the option to flip through a book.   I incline toward
   actual books over advanced ones, particularly
