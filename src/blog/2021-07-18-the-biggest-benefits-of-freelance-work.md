@@ -8,13 +8,8 @@ tags:
 image: /assets/blog/online-courses-for-coding-programming-and-web-development.jpg
 description: "This should come as no surprise once you consider that coders,
   generally , don’t need much to urge to work: just their laptop and a stable
-  internet connection.  Also, of all the possible freelance jobs, skilled
-  programmers tend to form the foremost money. as an example , a site like
-  Upwork can earn them around $150 per hour.  The long and in need of it's that
-  not only is freelance work here to remain , but more software and web
-  developers also are sure to flock thereto within the future.  This should seem
-  all the more obvious once you consider all the advantages developers enjoy
-  when working remotely."
+  internet connection. Also, of all the possible freelance jobs, skilled
+  programmers tend to form the foremost money. as an example , a site like "
 imageAlt: freelancing
 ---
 This should come as no surprise once you consider that coders, generally , don’t need much to urge to work: just their laptop and a stable internet connection.
