@@ -1,19 +1,192 @@
 ---
-title: My First Article
+title: THE BIGGEST BENEFITS OF FREELANCE WORK
 author: Saqib
 date: 2021-05-01
-tags: ["post", "featured"]
+tags:
+  - post
+  - featured
 image: /assets/blog/article-1.jpg
+description: "This should come as no surprise once you consider that coders,
+  generally , don’t need much to urge to work: just their laptop and a stable
+  internet connection.  Also, of all the possible freelance jobs, skilled
+  programmers tend to form the foremost money. as an example , a site like
+  Upwork can earn them around $150 per hour."
 imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
+This should come as no surprise once you consider that coders, generally , don’t need much to urge to work: just their laptop and a stable internet connection.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+Also, of all the possible freelance jobs, skilled programmers tend to form the foremost money. as an example , a site like Upwork can earn them around $150 per hour.
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+The long and in need of it's that not only is freelance work here to remain , but more software and web developers also are sure to flock thereto within the future.
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+This should seem all the more obvious once you consider all the advantages developers enjoy when working remotely.
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+Let me walk you thru a couple of ways freelancing helps developers grow.
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+
+
+## 1: PERSONAL GROWTH
+
+While a working worker has a comfortable cushion of stability and can afford to be a touch flaky every now and then, freelancers are hired on a per project basis.
+
+If you fail to bring your A-game every single time, you will never be asked again.
+
+Moreover, freelance developers need to work their soft skills, whereas a working coder does not necessarily lose consistency in their negotiation skills.
+
+Being a successful freelance developer means you essentially represent your own brand. That’s why you want to know the way to sell yourself.
+
+You need to be prepared to convince your client that you have an honest ability and skill to affect a variety of customers, which some may also ask for.
+
+
+
+![working as a freelancer](/assets/blog/working-remotely-as-a-freelance-web-developer.jpg "working as a freelancer")
+
+
+
+Most importantly, you need to know your communication skills as a contract developer.
+
+When you’re freelance, you don’t have the reputation of a boss telling you the specified details of the code you’re writing.
+
+Therefore, you need to take the time to fully understand exactly what the client wants and the way they think of the real product.
+
+Moreover, freelance developers always need to remember that they are just programmers; They are effective entrepreneurs responsible for handling their own marketing, brand, and finances.
+
+
+
+## 2: ROOM FOR EXPANSION
+
+Some independent designers can be effective to such an extent that they wind up pulling in more work than they can deal with. 
+
+In the event that that occurs, you need to think about acquiring different consultants to work for you. 
+
+Likewise, you can employ consultants with correlative abilities to add to your scope of administrations. 
+
+For instance, suppose you need to offer full-administration site bundles to your customers. That incorporates both the plan and the turn of events. 
+
+In case you are not happy with visual communication, you can track down a solid independent creator to take care of you. 
+
+That way, you can deal with the whole task along with your independent accomplice, and your customer doesn't need to stress over discovering their very own planner. 
+
+Also, on the off chance that you truly figure you can pull it off, you should think about beginning your own web advancement or programming improvement office.
+
+
+
+![img](/assets/blog/online-courses-for-coding-programming-and-web-development.jpg "freelancing")
+
+
+
+## 3: CAREER GROWTH
+
+Then, we should consider what you need to never really fully informed regarding your profession abilities. 
+
+If we like it, we have a natural propensity to take the simple way, the easiest course of action. 
+
+Henceforth, as a rule, a utilized engineer working for an organization will neither work on their specialized abilities nor acquire new programming dialects except if requested to do as such. 
+
+Also, not many will feel constrained to find out about new, arising innovations. 
+
+Independent engineers don't have this extravagance. 
+
+At the point when you cooperate with various customers, they all have their own requests and assumptions. Hence, you need to extend your specialized base and add new abilities to your arms stockpile. 
+
+
+
+Furthermore, you ought to consistently remain on the front line of your field assuming you need your customers to see you as a specialist. 
+
+Independent designers have the additional advantage of connecting with various specialists and gaining from their experience. 
+
+For example, you can discover programming advancement organizations that like to work with independent engineers as opposed to recruiting full-time in-house staff. 
+
+Subsequently, you could be working with a specific group during a task, then, at that point team up with another group on an alternate venture, meanwhile gaining from the experience of the two groups. 
+
+This isn't to specify the sort of involvement and schooling you could get when you work with a startup group, assisting them with creating exclusive programming.
+
+
+
+
+
+![learn code](/assets/blog/learn-to-code-online-and-become-a-freelance-developer.jpg "code")
+
+
+
+
+
+
+
+## 4: IMPROVED WORK-LIFE BALANCE
+
+
+
+Not at all like representatives who need to work in a desk area, specialists have a lot of power over their workplace, permitting them to expand usefulness. 
+
+You can set it up in any case you see fit, ensuring that it is consummately fit to your individual requirements. 
+
+An office setting can be uproarious and loaded up with interruptions, however a consultant telecommuting can enjoy all the calm and harmony important to zero in at work and to create quality code. 
+
+Indeed, an overview by Flexjobs tracked down that more than 3/4 of representatives attempt to avoid the workplace when chipping away at significant assignments. 
+
+Another highlight contemplate is that specialists have full control of their timetable, while workers don't. 
+
+This may appear to be an unessential moment that it comes to work quality, yet it makes a difference in light of the fact that various individuals are useful during various hours of the day. 
+
+
+
+![cool](/assets/blog/learning-to-code-online-and-freelancing.jpg "learn code ")
+
+
+
+Some like getting up toward the beginning of the day, so an all day plan suits them. 
+
+Notwithstanding, others are evening people, accomplishing their best work when every other person is sleeping, and constraining these individuals to deal with a morning timetable can accomplish more mischief than anything.
+
+
+
+
+
+## 5: BETTER QUALITY OF LIFE
+
+
+
+Outsourcing permits web designers to strike a superior balance between serious and fun activities. 
+
+All things considered, when you can set up your own timetable and choose how much work to take on, you can likewise give more opportunity to loved ones. 
+
+You won't ever need to miss enormous events in your youngsters' lives since work kept you from it. 
+
+Notwithstanding the entirety of this, when you can pick the ventures you need to chip away at, you will see enormous mental advantages. 
+
+It causes you to feel you have more command over your life, and it guarantees that you will just work on projects that you appreciate. This will assist you with keeping up with your enthusiasm for the work for quite a long time to come.
+
+
+
+![work](/assets/blog/learning-tech-skills-online.jpg "freelancing")
+
+
+
+
+
+
+
+## 6: BETTER PAY
+
+
+
+Some independent designers make more than twice or even multiple times the measure of cash they would have made had they been workers. 
+
+Consultants save a lot of time and costs by cutting their drive, keeping away from available time, and working in a useful climate based on their personal preference. 
+
+In light of that, you can bring in a similar cash a full-time worker makes. 
+
+Yet, while the worker needs to place in 40-hour work filled weeks, a specialist can get by with significantly less an ideal opportunity for a similar measure of cash. 
+
+Notwithstanding, this doesn't imply that outsourcing would be a pyramid scheme. You need to place in a lot of difficult work to turn into an effective independent web engineer. 
+
+
+
+![learn code](/assets/blog/build-practical-coding-projects-for-your-portfolio-website.jpg "freelancing")
+
+
+
+In any case, when you get this show on the road, things can increase rapidly. 
+
+On the off chance that your customers are glad, they will prescribe you to their contacts, and you will before long see a compounding phenomenon with potential customers reaching out to you.
