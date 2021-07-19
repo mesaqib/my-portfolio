@@ -12,8 +12,6 @@ imageAlt: img
 ---
 <br/>
 
-
-
 Just showing off my current preference for a React project folder structure. I think this gives a good view and segregation of files for my react based projects.
 
 <br/>
@@ -22,27 +20,27 @@ Just showing off my current preference for a React project folder structure. I t
 
 <br/>
 
-
-
 <!--StartFragment-->
 
 Let's go through each folder inside the src folder.
 
 <!--EndFragment-->
 
-
-
 <br/>
 
-<!--StartFragment-->
+<!--StartFragment--><br/>
 
 **1. api-config**
 
 `api-config` consist of file containing the api endpoints. This folder doesn't have any logic. This helps having a single place for all api url end points and not to be scattered around in components, mostly inside useEffects.
 
+<br/>
+
 **2. assest**
 
 `assets` folder mostly consist of images(*.png,*.svg..) and any other static files that might be needed.
+
+<br/>
 
 **3. common**
 
@@ -56,25 +54,25 @@ Let's go through each folder inside the src folder.
 
 <br/>
 
-
-
 <!--StartFragment-->
 
 `components` folder consists of individual components, which are atomic in nature and doesn't compose any other components.
 
-`hooks` as the name suggest consists of custom hooks, that you might develop for your project
+`hooks` as the name suggest consists of custom hooks, that you might develop for your project.
+
+<br/>
 
 **4. constants**
 
-`constants` as the name suggest consist of constants used across project
+`constants` as the name suggest consist of constants used across project.
+
+<br/>
 
 **5. modules**
 
 `modules` folder contains react components which are composed of smaller components defined under `common/components`. For e.g. a `<Header />` component which may look like
 
 <!--EndFragment--><br/>
-
-
 
 ![alt](/assets/blog/capture.png "react project")
 
@@ -95,8 +93,6 @@ This is the bigger react component which presents a whole page. It might contain
 
 <br/>
 
-
-
 <!--StartFragment-->
 
 **7. store or Global context**
@@ -106,15 +102,21 @@ This is the bigger react component which presents a whole page. It might contain
 On side note, if you have not used `Zustand` as react-redux replacement, give it a try. Very simple and easy to use state management system and you don't have to wrap your component inside a `Provider`.\
 [Zustand](https://github.com/pmndrs/zustand)
 
+<br/>
+
 **8. test**
 
 `Test` folder. And please don't give it just a lip service. It's fun to write and really helps you out during refactoring(more than TypeScript.. :P)\
 [React-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
 
+<br/>
+
 **9. utils**
 
 Everything else to dump into(..not really, please don't do this).\
 Store common utility functions inside this folder.
+
+<br/>
 
 **10.routes**
 
@@ -123,8 +125,6 @@ A folder to contains all root level routes.
 <!--EndFragment-->
 
 <br/><br/>
-
-
 
 ###### source:  [@knitesh](https://dev.to/knitesh)
 
