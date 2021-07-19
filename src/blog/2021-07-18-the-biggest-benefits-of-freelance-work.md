@@ -12,8 +12,6 @@ description: "This should come as no surprise once you consider that coders,
   programmers tend to form the foremost money. as an example , a site like "
 imageAlt: freelancing
 ---
-
-
 This should come as no surprise once you consider that coders, generally , don’t need much to urge to work: just their laptop and a stable internet connection.
 
 Also, of all the possible freelance jobs, skilled programmers tend to form the foremost money. as an example , a site like Upwork can earn them around $150 per hour.
@@ -24,7 +22,7 @@ This should seem all the more obvious once you consider all the advantages devel
 
 Let me walk you thru a couple of ways freelancing helps developers grow.  <br/><br/><br/>
 
-## **1: PERSONAL GROWTH**  
+## **1: PERSONAL GROWTH**
 
 While a working worker has a comfortable cushion of stability and can afford to be a touch flaky every now and then, freelancers are hired on a per project basis.
 
@@ -145,3 +143,13 @@ Notwithstanding, this doesn't imply that outsourcing would be a pyramid scheme. 
 In any case, when you get this show on the road, things can increase rapidly.
 
 On the off chance that your customers are glad, they will prescribe you to their contacts, and you will before long see a compounding phenomenon with potential customers reaching out to you.
+
+<br/>
+
+<center>
+
+<a href="https://www.amazon.in/Business-Freelancing-How-Thrive-Freelancer/dp/9811222657?dchild=1&keywords=freelancing&qid=1626672602&s=books&sr=1-3&linkCode=li3&tag=saqib0ad-21&linkId=3ee4d3568fb40e9bd95bd2c8dded994e&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=9811222657&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=saqib0ad-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=saqib0ad-21&language=en_IN&l=li3&o=31&a=9811222657" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
+</center>
