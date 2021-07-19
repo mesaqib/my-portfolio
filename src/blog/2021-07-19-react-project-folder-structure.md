@@ -4,6 +4,7 @@ author: saqib
 date: 2021-07-19T04:58:57.037Z
 tags:
   - post
+  - featured
 image: /assets/blog/unnamedreact-page-structure.png
 description: Just showing off my current preference for a React project folder
   structure. I think this gives a good view and segregation of files for my
