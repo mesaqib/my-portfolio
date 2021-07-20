@@ -5,7 +5,7 @@ date: 2021-07-20T07:05:10.200Z
 tags:
   - post
   - featured
-image: /assets/blog/create-a-custom-scrollbar-for-our-website.jpg
+image: /assets/blog/1.how-we-can-create-a-custom-scrollbar-for-our-website.png
 description: Recently, I figured out about customizing scrollbars. Adding custom
   scrollbars to websites you make, helps enhance it even further and also helps
   in overall color-coordination. To start with, we use ::-webkit-scrollbar.It
