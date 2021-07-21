@@ -781,8 +781,8 @@ nav .logo{
 
 @media(max-width: 535px){
   .about__skill .left .box{
-    height: 300px;
-    width: 200px;
+    height: 250px;
+    width: 300px;
   }
 }
 
