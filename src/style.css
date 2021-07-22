@@ -706,7 +706,7 @@ nav .logo{
 }
 
 .about__header{
-  height: 50vh;
+  height: 70vh;
   background-color: #5928E5;
   padding-top: 100px;
   display: flex;
@@ -731,7 +731,7 @@ nav .logo{
 
 
 .about__skill{
-  padding: 100px 50px;
+  padding: 70px 50px;
   display: flex;
   justify-content: space-around;
 }
@@ -748,6 +748,11 @@ nav .logo{
   background-color: white;
   margin: 5px;
   box-shadow: 1px 2px 10px gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #5928E5;
+  flex-direction: column;
 }
 
 .about__skill .right{
