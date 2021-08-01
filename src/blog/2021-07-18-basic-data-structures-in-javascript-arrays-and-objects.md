@@ -1,5 +1,5 @@
 ---
-title: "Basic Data Structures in JavaScript : Arrays and Objects !"
+title: "Basic Data Structures in JavaScript : Arrays and Object."
 author: saqib
 date: 2021-07-18T09:45:49.758Z
 tags:
