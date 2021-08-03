@@ -1,9 +1,10 @@
 ---
-title: 5 Best Resources To Learn JavaScript For Free
+title: 5 Best Resources To Learn JavaScript For Freee
 author: saqib
 date: 2021-07-22T11:43:21.840Z
 tags:
   - post
+  - featured
 image: /assets/blog/5-best-resources-to-learn-javascript-for-free.jpg
 description: There are countless resources to learn JavaScript, and that is both
   a bad and a good thing. The good thing is that we have many options to choose
