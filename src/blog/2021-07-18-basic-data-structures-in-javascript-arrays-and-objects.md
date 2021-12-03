@@ -18,11 +18,7 @@ In this Basic Data Structures Blog, we'll learn more about the differences betwe
 
 <br/>
 
-
-
 ## 1️⃣ Use an Array to Store a Collection of Data
-
-
 
 Here is an example of the simplest implementation of an array data structure.
 
@@ -46,8 +42,6 @@ A more complex implementation of an array can be seen below.
 
 <br/>
 
-
-
 <!--StartFragment-->
 
 This is known as a **multi-dimensional array**, or an array that contains other arrays.
@@ -59,8 +53,6 @@ You must have noticed this array also contains JavaScript objects, which we will
 <br/><br/>
 
 <br/>
-
-
 
 <!--StartFragment-->
 
@@ -84,8 +76,6 @@ When we define a simple array as seen below, there are 3 items in it:
 
 <br/>
 
-
-
 <!--StartFragment-->
 
 In an array, each array item has an **index**. This index doubles as the position of that item in the array, and how you reference it.
@@ -104,8 +94,6 @@ For example, if we want to retrieve the `a` from `ourArray` and assign it to
 
 <br/>
 
-
-
 <!--StartFragment-->
 
 Now, `ourVariable` has the value of a.
@@ -114,15 +102,11 @@ In addition to accessing the value associated with an index, you can also set an
 
 <!--EndFragment-->
 
-
-
 <br/>
 
 ![Access an Array's Contents Using Bracket Notation](/assets/blog/5.png "Access an Array's Contents Using Bracket Notation")
 
 <br/>
-
-
 
 <!--StartFragment-->
 
@@ -130,11 +114,7 @@ Using bracket notation, we have now reset the item at index 1 from the string `
 
 <!--EndFragment-->
 
-
-
 <br/><br/><br/>
-
-
 
 <!--StartFragment-->
 
@@ -143,8 +123,6 @@ Using bracket notation, we have now reset the item at index 1 from the string `
 <!--EndFragment-->
 
 <br/>
-
-
 
 <!--StartFragment-->
 
@@ -164,15 +142,11 @@ Consider the following:
 
 <!--EndFragment-->
 
-
-
 <br/>
 
 ![romanNumerals would have the value ['XIX', 'XX', 'XXI', 'XXII'].](/assets/blog/6.png "romanNumerals would have the value ['XIX', 'XX', 'XXI', 'XXII'].")
 
 <br/>
-
-
 
 <!--StartFragment-->
 
@@ -180,17 +154,11 @@ Consider the following:
 
 <!--EndFragment-->
 
-
-
 <br/>
 
 ![push() method ](/assets/blog/7.png "push() method ")
 
-
-
 <br/>
-
-
 
 <!--StartFragment-->
 
@@ -200,11 +168,7 @@ Notice that we can also pass variables, which allows us even greater flexibility
 
 <!--EndFragment-->
 
-
-
 <br/><br/><br/>
-
-
 
 <!--StartFragment-->
 
@@ -227,3 +191,15 @@ Let's take a look:
 <!--EndFragment-->
 
 <br/>
+
+
+
+
+
+<center>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=saqib0ad-21&language=en_IN&marketplace=amazon&region=IN&placement=B09GFLFMPS&asins=B09GFLFMPS&linkId=71274cb31741ed6a2d31d532129dfce9&show_border=true&link_opens_in_new_window=true"></iframe>
+
+
+
+</center>
