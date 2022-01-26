@@ -47,8 +47,6 @@ Internal data from Toptal—which provides specialist, on-demand talent to clien
 
 ![Why-Now-is-the-Right-Time-to-Join-a-Contingent-Talent-Network](/assets/blog/why-now-is-the-right-time-to-join-a-contingent-talent-network.webp "Why-Now-is-the-Right-Time-to-Join-a-Contingent-Talent-Network")
 
-
-
 <!--StartFragment-->
 
 SAP Fieldglass predicts that, based on historic performance, non-payroll hiring will [increase 7% by mid-2022](https://www.fieldglass.com/sites/default/files/2021-04/ramping-up-resilience-how-external-workforce-efficiency-drives-strategic-recovery-and-success-whitepaper.pdf)—which could represent opportunities for tens of thousands more freelance workers. Meanwhile, 56% of human resources and C-suite executives say they plan to shift more roles to freelance, project, or contract work, according to a 2021 [survey](https://www.randstadsourceright.com/talent-trends-quarterly-q2-2021-rise-agile-workforce/) by Randstad Sourceright, a global talent acquisition consultancy based in Amsterdam.
@@ -57,15 +55,11 @@ Case in point: BMO Financial Group, the umbrella company of the Bank of Montreal
 
 <!--EndFragment-->
 
-
-
 <h3><!--StartFragment-->
 
 ### Why This Is Happening Now
 
 <!--EndFragment--></h3>
-
-
 
 <!--StartFragment-->
 
@@ -77,15 +71,11 @@ In the early days of the pandemic, contingent workers in the software developmen
 
 ![image](/assets/blog/image-1634786904341-74138aff0d0867f7f75882ff1155acd1.png "This data is based on a 2019 survey of ​​1,050 senior executives in 24 industries, across 21 countries.")
 
-
-
 <!--StartFragment-->
 
 One of the most-touted benefits of contingent labor is cost savings versus hiring, training, and providing benefits for full-time employees. It’s arguable, however, that today, the agility and flexibility of contingent workers is key to businesses surviving an increasingly volatile marketplace. As JP Stadelmann, Head of Purchasing for the External Workforce at Swisscom [told SAP Fieldglass](https://www.fieldglass.com/sites/default/files/2021-04/ramping-up-resilience-how-external-workforce-efficiency-drives-strategic-recovery-and-success-whitepaper.pdf), “For us, the value of the external workforce has never been cost. It’s flexibility. It’s strategic.”
 
 <!--EndFragment-->
-
-
 
 <h1><!--StartFragment-->
 
@@ -93,15 +83,11 @@ One of the most-touted benefits of contingent labor is cost savings versus hirin
 
 <!--EndFragment--></h1>
 
-
-
 <h3><!--StartFragment-->
 
 ### What the Data Shows
 
 <!--EndFragment--></h3>
-
-
 
 <!--StartFragment-->
 
@@ -117,8 +103,6 @@ In the first nine months of 2020, Toptal saw the volume of applicants wanting to
 
 <!--EndFragment--></h3>
 
-
-
 <!--StartFragment-->
 
 Knowledge workers have experienced the benefits of working a flexible schedule from any location and don’t want to give it up. “People see freelancing as an opportunity to restructure their lives into ones with more financial freedom and personal fulfillment,” says Stettler. “Flexibility and constant learning—that’s what COVID showed us are really important ingredients for job satisfaction and security.”
@@ -133,11 +117,7 @@ Stettler made the shift to contingent work himself more than three years ago, wh
 
 <!--EndFragment-->
 
-
-
 ![Why-Now-is-the-Right-Time-to-Join-a-Contingent-Talent-Network_3__1_-b39b05bee8006b1263bf6ff821bb84d1](/assets/blog/why-now-is-the-right-time-to-join-a-contingent-talent-network_3__1_-b39b05bee8006b1263bf6ff821bb84d1.png "Why-Now-is-the-Right-Time-to-Join-a-Contingent-Talent-Network")
-
-
 
 <!--StartFragment-->
 
@@ -145,15 +125,11 @@ Now is the time for talent to embrace the freelance transformation, says Jennife
 
 <!--EndFragment-->
 
-
-
 <h1><!--StartFragment-->
 
 ## The Role of Contingent Talent Networks
 
 <!--EndFragment--></h1>
-
-
 
 <!--StartFragment-->
 
@@ -164,8 +140,6 @@ Beyond that, robust contingent talent networks can give skilled freelancers as m
 Global staffing companies are able to give businesses access to the best talent, wherever they’re living. Some platforms vet candidates and put custom teams together on demand. “If you’re a larger business, it’s just not scalable to try to find the exact freelancers you need on an individual basis, from all over the world,” says Stettler. “Important projects require many types of professionals in key areas such as engineering and design—and they all have to coordinate with each other to make it work.”
 
 <!--EndFragment-->
-
-
 
 <h1><!--StartFragment-->
 
@@ -178,5 +152,27 @@ Global staffing companies are able to give businesses access to the best talent,
 Disruption and change will continue as the global economy and talent marketplace recover from the events of 2020. One of the best ways companies can protect themselves and plan for future growth is to invest in a more flexible workforce—one that can be brought in, on demand, to shore up unexpected skill gaps and help businesses pivot and thrive.
 
 “This is a moment in history that unleashed profound changes in the nature of work,” says Stettler. The remote, freelance revolution “was there, waiting to happen—it needed the catalyst. And the catalyst finally came.”
+
+<!--EndFragment-->
+
+
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+![AUTHOR](/assets/blog/regular_238x238_image_from_ios-4f6bd337aaa5ec1012ddb5d2067e7a78-edf561970959159f2092df425883fd1f.jpg "AUTHOR")
+
+<!--StartFragment-->
+
+ABOUT THE AUTHOR
+
+Michael J. McDonald is an award-winning journalist who has worked at Bloomberg News and Thomson Financial. He is a Senior Writer at Toptal.
 
 <!--EndFragment-->
