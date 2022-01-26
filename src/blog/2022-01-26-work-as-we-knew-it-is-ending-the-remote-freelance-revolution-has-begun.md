@@ -155,8 +155,6 @@ Disruption and change will continue as the global economy and talent marketplace
 
 <!--EndFragment-->
 
-
-
 <br/>
 
 <br/>
@@ -165,7 +163,7 @@ Disruption and change will continue as the global economy and talent marketplace
 
 <br/>
 
-
+<center>
 
 ![AUTHOR](/assets/blog/regular_238x238_image_from_ios-4f6bd337aaa5ec1012ddb5d2067e7a78-edf561970959159f2092df425883fd1f.jpg "AUTHOR")
 
@@ -176,3 +174,7 @@ ABOUT THE AUTHOR
 Michael J. McDonald is an award-winning journalist who has worked at Bloomberg News and Thomson Financial. He is a Senior Writer at Toptal.
 
 <!--EndFragment-->
+
+
+
+</center>
